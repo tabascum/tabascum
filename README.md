@@ -2,7 +2,6 @@ Hi there 👋 How's it going?
 
 - 🔭 I’m currently working on a webpage for a barbershop which is allowing me to practice HTML, CSS and JS. 
 - 🌱 I’m currently learning and focusing on Javascript. Next steps will be diving into React and Bootstrap. 
-- 👯 I’m looking to collaborate, for now, on small projects to allow more practice in the technologies I already know. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it. 
 
