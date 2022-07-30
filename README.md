@@ -31,8 +31,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/tas/tas/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
