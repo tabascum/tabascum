@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vasco M and I'm a Front-end Developer, from Lisbon, Portugal.</p>
+<p align="left">My name is Vasco and I'm a Front-end Developer, from Lisbon, Portugal.</p>
 
 ###
 
