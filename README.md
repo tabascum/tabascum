@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my own portfolio page and making small projects on my own, as landing pages and some JS app's.<br>🌱 I’m currently learning and focusing on Javascript, DOM and object manipulation, functions. I'm curious about PREACT, React as well as the use of BootStrap, Sass and Tailwind.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it.</p>
+<p align="left">I'm a curious guy about everything that's related to IT. I've been self-learning webdevelopment.<br>🔭 I’m currently working on my own portfolio page and making small projects, as landing pages and some small JS app's.<br>🌱 I’m currently focusing on Javascript, DOM and DOM manipulation, functions and objects.<br>I'm curious about PREACT, React.js as well as Angular.js and Vue.js. <br>😄 Pronouns: He/Him<br>⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it.</p>
 
 ###
 
