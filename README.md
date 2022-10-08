@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm curious about everything that's related to IT. <br>🔭 I’m currently working on my own portfolio page and making small projects, as landing pages and some small JS app's.<br>🌱 I’m currently focusing on Javascript, DOM and DOM manipulation, functions and objects.<br>I'm curious about PREACT, React.js as well as Angular.js and Vue.js. <br>😄 Pronouns: He/Him<br>⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it.</p>
+<p align="left">I'm curious about everything that's related to IT. From web development, mobile development to hardware. <br>🔭 I’m currently working on my own portfolio page and making small projects, as landing pages and some small JS app's. I'm open to collabs to help me get more experienced! <br>🌱 I’m currently focusing on Javascript, DOM and DOM manipulation, functions and objects.<br>I'm starting with React.js and really curious about Qwik! <br>😄 Pronouns: He/Him<br>⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it.</p>
 
 ###
 
