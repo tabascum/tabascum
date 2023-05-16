@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vasco and I'm a Web Developer, from Lisbon, Portugal.</p>
+<p align="left">My name is Vasco and I'm a Web Developer, from Lisbon, Portugal based in Roanne, France!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm curious about everything that's related to IT. From web development, mobile development to hardware. <br>🔭 I’m currently working on my own portfolio page and making small projects, as landing pages and some small JS app's. <br> I'm open to collabs to help me get more experienced! <br>🌱 I’m currently focusing on Javascript, DOM and DOM manipulation, functions and objects.<br>I'm starting with Vue.js and really curious about Qwik! <br>😄 Pronouns: He/Him<br>⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it.</p>
+<p align="left">I'm curious about everything that's related to IT. From web development, mobile development to hardware. <br>🔭 I’m currently working on my own portfolio page and making small projects, as landing pages and some small JS app's. <br> I'm open to collabs to help me getting more experienced! <br>🌱 I’m focusing on Javascript, DOM and Vue.js! <br>😄 Pronouns: He/Him<br>⚡ Fun fact: IT has always been in my life but I never noticed how much fun I could get out of it.</p>
 
 ###
 
